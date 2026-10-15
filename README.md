@@ -1,6 +1,6 @@
 <div align="center">
 
-## codingbat.java
+## codingbat-java
 
 Solutions to CodingBat Java problems
 
