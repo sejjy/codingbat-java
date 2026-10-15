@@ -4,8 +4,8 @@
 
 Solutions to CodingBat Java problems
 
-| ![has271](./p167430.png) |
-| :----------------------: |
+| ![screenshot](./screenshot.png) |
+| :-----------------------------: |
 
 </div>
 
